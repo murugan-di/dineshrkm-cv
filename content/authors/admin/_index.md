@@ -147,4 +147,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dinesh Ram Kumar Murugan is an Electrical Engineer in ASML. His research interests includes NLP, Gnerative AI, control systems, and electrical design. 
